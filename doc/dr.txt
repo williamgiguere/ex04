@@ -1,0 +1,6 @@
+ex04
+
+19/20
+
+-1 README.md: Le texte n'est pas lisible.
+Consultez https://help.github.com/articles/markdown-basics/

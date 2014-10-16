@@ -13,8 +13,7 @@ num investmentvalue (int t) {
 
 // Where t represents time in years
 
-main() {
-  
+main() { 
   print('Answer to ex04_04 is :');
   print('Year 0 = ${investmentvalue(0).toStringAsFixed(2)}');
   print('Year 1 = ${investmentvalue(1).toStringAsFixed(2)}');

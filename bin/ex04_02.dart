@@ -10,8 +10,7 @@ Given the center of the rectangle as the starting point and the angle of 45 degr
 */
 
 
-main() {
-  
+main() {  
   var centerx = 800 / 2;
   var centery = 600 / 2;
   int hypotenuse = 160;
